@@ -11,4 +11,4 @@ The method should be able to return a time based on the name of the ski resort t
 The sample code stub is found in the WebPageTest.java file.
 
 
-Refer to the Git_Procedure_Step_By_Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
+Refer to the Git Procedure Step By Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
